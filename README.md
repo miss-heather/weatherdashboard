@@ -10,6 +10,7 @@ There is no special installation required for this app.
 All the user has to do is type their desired city into the search field, and the 5 day forecast will display, with weather images, humidity, and wind speed. 
 
 Github: https://github.com/miss-heather/weatherdashboard
+Live site: https://miss-heather.github.io/weatherdashboard/ 
 
 ![Weather Screenshot](images/weather.jpg)
 
