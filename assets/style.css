@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .city-select {
+    margin-bottom: 20px;
+  }
+  
+  #weather-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .weather-card {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .weather-card h3 {
+    margin: 0;
+  }
+  
+  .weather-card p {
+    margin: 5px 0;
+  }
+  
+  .history-item {
+      cursor: pointer;
+      padding: 5px;
+      border-bottom: 1px solid #ccc;
+    }
